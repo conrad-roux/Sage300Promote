@@ -1,0 +1,7 @@
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\obj\Debug\DebugPromote.csproj.CoreCompileInputs.cache
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\bin\Debug\DebugPromote.dll
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\bin\Debug\DebugPromote.pdb
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\bin\Debug\SageCRMNet.dll
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\obj\Debug\DebugPromote.csproj.CopyComplete
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\obj\Debug\DebugPromote.dll
+C:\Users\conrad.roux\source\repos\DebugPromote\DebugPromote\obj\Debug\DebugPromote.pdb

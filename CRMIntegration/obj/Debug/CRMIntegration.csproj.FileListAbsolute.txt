@@ -1,0 +1,5 @@
+C:\Users\conrad.roux\source\repos\DebugPromote\CRMIntegration\bin\Debug\CRMIntegration.dll
+C:\Users\conrad.roux\source\repos\DebugPromote\CRMIntegration\bin\Debug\CRMIntegration.pdb
+C:\Users\conrad.roux\source\repos\DebugPromote\CRMIntegration\obj\Debug\CRMIntegration.csproj.CoreCompileInputs.cache
+C:\Users\conrad.roux\source\repos\DebugPromote\CRMIntegration\obj\Debug\CRMIntegration.dll
+C:\Users\conrad.roux\source\repos\DebugPromote\CRMIntegration\obj\Debug\CRMIntegration.pdb
